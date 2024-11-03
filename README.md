@@ -104,6 +104,16 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
    ```bash
    php artisan serve
 
+7. **After run,you can see documentation**:
+   ```bash
+   your-host/api/documentation
+   ```
+
+   example-like : 
+   ```bash
+   localhost:8000/api/documentation
+   ```
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
